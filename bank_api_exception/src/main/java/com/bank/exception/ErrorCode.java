@@ -1,0 +1,12 @@
+package com.bank.exception;
+
+
+public enum ErrorCode {
+    USER_NOT_FOUND,
+    USER_ALREADY_EXIST,
+    ACCOUNT_NOT_FOUND,
+    DUPLICATE_EMAIL,
+    INVALID_AMOUNT,
+    INSUFFICIENT_BALANCE,
+    INVALIDATION_ERROR,
+}
