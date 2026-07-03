@@ -25,4 +25,6 @@ public class UserController {
     public String profile(){
         return "profile";
     }
+
+
 }
